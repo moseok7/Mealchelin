@@ -16,10 +16,10 @@
     </li>
     <li><a href="#담당-구현-기능">담당 구현 기능</a>
       <ul>
-        <li><a href="#member">회원</a></li>
-        <li><a href="#product">상품</a></li>
-        <li><a href="#order">주문</a></li>
-        <li><a href="#board">게시판</a></li>
+        <li><a href="#board_read">게시판 조회</a></li>
+        <li><a href="#board_write">게시판 작성</a></li>
+        <li><a href="#board_update">게시판 수정, 삭제</a></li>
+        <li><a href="#board_admin">게시판 관리자 기능</a></li>
       </ul>
     </li>
   </ol>
@@ -59,7 +59,7 @@
 * 담당 구현 기능
 
 * DB 설계<br>
-
+<img src="https://user-images.githubusercontent.com/102956465/200523849-1cc5c2b4-5c73-49cd-86de-a2a52553eca0.JPG" width="500"> 
 ------------
 
 # 📝화면 설계 요약
@@ -81,7 +81,7 @@
 
 ## 커 게시판
 
- 1. <h3 id="member">공지사항 조회</h3>
+ 1. <h3 id="board_read">공지사항 조회</h3>
 
 
   **사이트 내 공지사항 게시판 페이지**
@@ -123,7 +123,7 @@
 ## 이벤트 게시판
 
 
-1. <h3 id="product">이벤트 조회</h3>
+1. <h3 id="board_write">이벤트 조회</h3>
 
 
 
@@ -168,7 +168,7 @@
 ------------
 ## FAQ 게시판
 
-1. <h3 id="order">FAQ 게시판 조회</h3>
+1. <h3 id="board_update">FAQ 게시판 조회</h3>
 
 **FAQ 게시판 조회**
 
@@ -194,7 +194,7 @@
 ------------
 ## 1 : 1 문의 게시판
 
-1. <h3 id="board">1:1문의 게시판 조회</h3>
+1. <h3 id="board_admin">1:1문의 게시판 조회</h3>
 
 **1:1문의 게시판 조회 - 일반 회원**
 
