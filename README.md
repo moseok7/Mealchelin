@@ -72,21 +72,25 @@
 
 ## 파트별 핵심 화면
   
-1. <h3>메인 화면</h3>
+#### 1. 메인 화면
 
+<img src="https://user-images.githubusercontent.com/102956465/200544341-c05c827a-7c65-4daa-96c2-e4360649ae50.JPG" width="700"> 
 
-2. <h3>회원 화면</h3>
+#### 2. 회원 화면
 
+<img src="https://user-images.githubusercontent.com/102956465/200538435-d0175fcc-d3d0-410f-bf54-03496d9bdbd3.JPG" width="700"> 
 
-3. <h3>상품 화면</h3>
+#### 3. 상품 화면
 
+<img src="https://user-images.githubusercontent.com/102956465/200538591-7154c799-6b2f-4481-80bf-f9e7db7b60e5.JPG" width="700"> 
 
-4. <h3>주문 화면</h3>
+#### 4. 주문 화면
 
+<img src="https://user-images.githubusercontent.com/102956465/200538677-1e89bdf5-694e-4c04-95f6-cb6df59756cc.JPG" width="700"> 
 
-5. <h3>게시판 화면</h3>
+#### 5. 게시판 화면
 
-
+<img src="https://user-images.githubusercontent.com/102956465/200544406-39bd5780-c63c-4ccf-a3f8-920149e06f37.JPG" width="700"> 
 
 ------------
 
